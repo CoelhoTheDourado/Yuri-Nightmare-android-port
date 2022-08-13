@@ -1,0 +1,25 @@
+{
+	"storyName": "inner demons",
+	"hideFreeplay": false,
+	"weekBackground": "bruh",
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"nightmare",
+			"icon-yuri-crazy",
+			[
+				46,
+				0,
+				60
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "chachs"
+}
